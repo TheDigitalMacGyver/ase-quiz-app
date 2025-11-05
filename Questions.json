@@ -1,0 +1,187 @@
+[
+  {
+    "category": "A1: Engine Repair",
+    "question": "Technician A says that a compression test should be performed with the throttle wide open. Technician B says that the engine oil should be disabled during the test. Who is correct?",
+    "options": ["Technician A only", "Technician B only", "Both A and B", "Neither A nor B"],
+    "correct": 0,
+    "explanation": "Throttle must be open for accurate reading; oil is not disabled in compression tests."
+  },
+  {
+    "category": "A1: Engine Repair",
+    "question": "A vehicle with a no-start condition has good spark but no fuel pressure. What is the most likely cause?",
+    "options": ["Faulty ignition coil", "Clogged fuel filter", "Bad camshaft sensor", "Worn timing belt"],
+    "correct": 1,
+    "explanation": "No fuel pressure points to a fuel delivery issue like a clogged filter; spark rules out ignition."
+  },
+  {
+    "category": "A1: Engine Repair",
+    "question": "A customer reports a knocking noise during acceleration. What is the likely cause?",
+    "options": ["Worn piston rings", "Pre-ignition/detonation", "Loose flywheel", "Faulty valve lifter"],
+    "correct": 1,
+    "explanation": "Knocking during acceleration often indicates pre-ignition or detonation due to improper fuel or timing."
+  },
+  {
+    "category": "A1: Engine Repair",
+    "question": "Technician A says low oil pressure can cause valve train noise. Technician B says a faulty PCV valve can cause this. Who is correct?",
+    "options": ["Technician A only", "Technician B only", "Both A and B", "Neither A nor B"],
+    "correct": 0,
+    "explanation": "Low oil pressure reduces lubrication to the valve train, causing noise; PCV affects crankcase pressure, not valve noise."
+  },
+  {
+    "category": "A1: Engine Repair",
+    "question": "An engine overheats after replacing the thermostat. What should be checked first?",
+    "options": ["Radiator cap", "Water pump", "Thermostat installation", "Coolant level"],
+    "correct": 2,
+    "explanation": "Incorrect thermostat installation (e.g., wrong orientation) can block flow, causing overheating."
+  },
+  {
+    "category": "A1: Engine Repair",
+    "question": "A vehicle has high oil consumption but no visible leaks. What is the most likely cause?",
+    "options": ["Worn valve seals", "Clogged air filter", "Faulty fuel injector", "Cracked cylinder head"],
+    "correct": 0,
+    "explanation": "Worn valve seals allow oil to enter the combustion chamber, burning off without external leaks."
+  },
+  {
+    "category": "A1: Engine Repair",
+    "question": "A vehicle has blue smoke from the exhaust at startup. What is the likely cause?",
+    "options": ["Worn piston rings", "Faulty fuel injector", "Worn valve stem seals", "Clogged PCV valve"],
+    "correct": 2,
+    "explanation": "Blue smoke at startup indicates oil burning, often due to worn valve stem seals leaking oil into the cylinders."
+  },
+  {
+    "category": "A1: Engine Repair",
+    "question": "Technician A says a stretched timing chain can cause a misfire. Technician B says it affects valve timing only. Who is correct?",
+    "options": ["Technician A only", "Technician B only", "Both A and B", "Neither A nor B"],
+    "correct": 0,
+    "explanation": "A stretched timing chain alters valve timing, which can cause misfires; B is incomplete."
+  },
+  {
+    "category": "A1: Engine Repair",
+    "question": "During a cylinder leakdown test, air escapes into the crankcase. What does this indicate?",
+    "options": ["Worn valve seats", "Worn piston rings", "Blown head gasket", "Cracked block"],
+    "correct": 1,
+    "explanation": "Air to crankcase points to piston ring leakage; valves would leak to intake/radiator, gasket to adjacent cylinder."
+  },
+  {
+    "category": "A1: Engine Repair",
+    "question": "A engine idles rough with low compression in cylinder 3. What component should be inspected first?",
+    "options": ["Spark plug wire", "Intake manifold gasket", "Exhaust valve", "Fuel injector"],
+    "correct": 2,
+    "explanation": "Low compression from exhaust valve issue prevents full cylinder sealing during compression stroke."
+  },
+  {
+    "category": "A1: Engine Repair",
+    "question": "Technician A says a faulty camshaft position sensor can cause hard starting. Technician B says it affects timing only after start. Who is correct?",
+    "options": ["Technician A only", "Technician B only", "Both A and B", "Neither A nor B"],
+    "correct": 0,
+    "explanation": "Cam sensor is critical for initial timing sync, affecting cranking/no-start conditions."
+  },
+  {
+    "category": "A1: Engine Repair",
+    "question": "A vehicle loses coolant but shows no external leaks or overheating. What is the probable cause?",
+    "options": ["Faulty radiator cap", "Cracked head gasket", "Clogged heater core", "Loose hose clamp"],
+    "correct": 1,
+    "explanation": "Internal leak via head gasket allows coolant into combustion chamber or oil, without visible loss."
+  },
+  {
+    "category": "A1: Engine Repair",
+    "question": "What is the first step when diagnosing a seized engine?",
+    "options": ["Check oil level", "Attempt to turn crankshaft by hand", "Scan for codes", "Test battery"],
+    "correct": 1,
+    "explanation": "Manual crankshaft rotation confirms seizure; oil/battery are secondary if it won't turn."
+  },
+  {
+    "category": "A1: Engine Repair",
+    "question": "Technician A says carbon buildup on pistons causes low compression. Technician B says it increases it. Who is correct?",
+    "options": ["Technician A only", "Technician B only", "Both A and B", "Neither A nor B"],
+    "correct": 0,
+    "explanation": "Carbon reduces effective volume, lowering compression; it doesn't increase it."
+  },
+  {
+    "category": "A1: Engine Repair",
+    "question": "A timing belt breaks on an interference engine. What is the likely result?",
+    "options": ["No start, bent valves", "Rough idle only", "Overheating", "No damage"],
+    "correct": 0,
+    "explanation": "Interference design allows piston-valve contact, causing valve/piston damage."
+  },
+  {
+    "category": "A1: Engine Repair",
+    "question": "An engine has excessive crankcase pressure. What should be checked first?",
+    "options": ["PCV valve", "Oil filler cap", "Dipstick tube", "Breather hose"],
+    "correct": 0,
+    "explanation": "Stuck PCV valve blocks ventilation, building pressure and pushing oil out."
+  },
+  {
+    "category": "A1: Engine Repair",
+    "question": "Technician A says hydraulic lifters can collapse under low oil pressure. Technician B says they self-adjust only. Who is correct?",
+    "options": ["Technician A only", "Technician B only", "Both A and B", "Neither A nor B"],
+    "correct": 0,
+    "explanation": "Low pressure prevents lifter filling, causing collapse and noise; they do self-adjust when pressurized."
+  },
+  {
+    "category": "A1: Engine Repair",
+    "question": "A vehicle has white smoke from exhaust and milky oil. What is the cause?",
+    "options": ["Burning coolant from head gasket", "Water in fuel", "Overfilled oil", "PCV failure"],
+    "correct": 0,
+    "explanation": "Head gasket failure mixes coolant/oil (milky) and burns in cylinders (white smoke)."
+  },
+  {
+    "category": "A1: Engine Repair",
+    "question": "What tool is used to measure piston ring end gap?",
+    "options": ["Feeler gauge", "Micrometer", "Bore gauge", "Dial indicator"],
+    "correct": 0,
+    "explanation": "Feeler gauge checks gap in ring groove; others measure diameter or clearance."
+  },
+  {
+    "category": "A1: Engine Repair",
+    "question": "Technician A says a warped cylinder head causes uneven compression. Technician B says it causes leaks only. Who is correct?",
+    "options": ["Technician A only", "Technician B only", "Both A and B", "Neither A nor B"],
+    "correct": 2,
+    "explanation": "Warping distorts sealing, causing both compression loss and external leaks."
+  },
+  {
+    "category": "A1: Engine Repair",
+    "question": "An engine backfires through the intake. What is a common cause?",
+    "options": ["Lean mixture", "Crossed spark plug wires", "Stuck EGR valve", "Timing advanced"],
+    "correct": 1,
+    "explanation": "Crossed wires cause incorrect firing order, igniting unburned mixture in intake."
+  },
+  {
+    "category": "A1: Engine Repair",
+    "question": "What is the purpose of cylinder head milling?",
+    "options": ["Increase compression ratio", "Repair cracks", "Balance the head", "Remove carbon"],
+    "correct": 0,
+    "explanation": "Milling the surface raises compression by reducing chamber volume."
+  },
+  {
+    "category": "A1: Engine Repair",
+    "question": "Technician A says a faulty oil pump can cause bearing failure. Technician B says low oil level only. Who is correct?",
+    "options": ["Technician A only", "Technician B only", "Both A and B", "Neither A nor B"],
+    "correct": 2,
+    "explanation": "Both low pressure (pump) and level reduce lubrication, leading to bearing wear."
+  },
+  {
+    "category": "A1: Engine Repair",
+    "question": "A vehicle has low oil pressure at high RPM. What is likely?",
+    "options": ["Worn main bearings", "Clogged oil filter", "Loose oil pan", "Faulty gauge"],
+    "correct": 1,
+    "explanation": "Clogged filter restricts flow at high demand; bearings cause low at idle."
+  },
+  {
+    "category": "A1: Engine Repair",
+    "question": "During reassembly, what is applied to head bolts?",
+    "options": ["Thread locker", "Sealer only", "Nothing", "Anti-seize"],
+    "correct": 2,
+    "explanation": "Most head bolts are torque-to-yield; clean threads, no compounds unless specified."
+  },
+  {
+    "category": "A1: Engine Repair",
+    "question": "Technician A says valve lash adjustment is for solid lifters. Technician B says hydraulic too. Who is correct?",
+    "options": ["Technician A only", "Technician B only", "Both A and B", "Neither A nor B"],
+    "correct": 0,
+    "explanation": "Solid lifters require periodic lash adjustment; hydraulic self-adjust."
+  },
+  {
+    "category": "A1: Engine Repair",
+    "question": "An engine has high compression but poor power. What could it be?",
+    "options": ["
