@@ -1,0 +1,6 @@
+ase-quiz/
+│
+├─ index.html          main page
+├─ style.css           optional styling
+├─ script.js           core logic
+└─ questions.json      200+ questions (you can keep adding)
