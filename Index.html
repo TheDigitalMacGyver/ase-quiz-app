@@ -1,14 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>ASE Practice Quiz – Free for Everyone</title>
-  <link rel="stylesheet" href="style.css">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>ASE Practice Quiz – 210+ Questions</title>
+  <link rel="stylesheet" href="style.css" />
+  <link rel="icon" href="data:,">
 </head>
 <body>
   <div class="container">
     <h1>ASE Practice Quiz</h1>
+    <p>210+ real ASE-style questions • Track progress • Works on phone</p>
 
     <section id="menu">
       <button id="mixed">Quick Mixed Quiz (5 Q)</button>
@@ -17,10 +19,10 @@
     </section>
 
     <section id="categorySelect" class="hidden">
-      <h2>Select a category</h2>
+      <h2>Select Category</h2>
       <select id="catSelect"></select>
-      <label>Questions: <input id="numQ" type="number" min="1" value="5"></label>
-      <button id="startCat">Start</button>
+      <label>Questions: <input id="numQ" type="number" min="1" max="30" value="10"></label>
+      <button id="startCat">Start Quiz</button>
       <button id="backMenu">Back</button>
     </section>
 
@@ -30,7 +32,7 @@
       <p id="question"></p>
       <div id="options"></div>
       <p id="feedback" class="hidden"></p>
-      <button id="nextBtn" class="hidden">Next</button>
+      <button id="nextBtn" class="hidden">Next →</button>
     </section>
 
     <section id="result" class="hidden">
@@ -41,10 +43,10 @@
     </section>
 
     <section id="stats" class="hidden">
-      <h2>Your Progress</h2>
+      <h2>Your Lifetime Progress</h2>
       <div id="statsList"></div>
       <button id="clearStats">Clear All Stats</button>
-      <button id="menuBtn2">Menu</button>
+      <button id="menuBtn2">Back to Menu</button>
     </section>
   </div>
 
