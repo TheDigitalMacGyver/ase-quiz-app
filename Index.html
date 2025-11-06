@@ -1,55 +1,58 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>ASE Practice Quiz – 210+ Questions</title>
-  <link rel="stylesheet" href="style.css" />
-  <link rel="icon" href="data:,">
-</head>
-<body>
-  <div class="container">
-    <h1>ASE Practice Quiz</h1>
-    <p>210+ real ASE-style questions • Track progress • Works on phone</p>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>ASE Practice Quiz – 210+ Questions</title>
+    <link rel="stylesheet" href="Styles.css" />
+    <link rel="icon" href="data:," />
+  </head>
+  <body>
+    <div class="container">
+      <h1>ASE Practice Quiz</h1>
+      <p>210+ real ASE-style questions • Track progress • Works on phone</p>
 
-    <section id="menu">
-      <button id="mixed">Quick Mixed Quiz (5 Q)</button>
-      <button id="categoryBtn">Category Quiz</button>
-      <button id="progressBtn">Show Progress</button>
-    </section>
+      <section id="menu">
+        <button id="mixed">Quick Mixed Quiz (5 Q)</button>
+        <button id="categoryBtn">Category Quiz</button>
+        <button id="progressBtn">Show Progress</button>
+      </section>
 
-    <section id="categorySelect" class="hidden">
-      <h2>Select Category</h2>
-      <select id="catSelect"></select>
-      <label>Questions: <input id="numQ" type="number" min="1" max="30" value="10"></label>
-      <button id="startCat">Start Quiz</button>
-      <button id="backMenu">Back</button>
-    </section>
+      <section id="categorySelect" class="hidden">
+        <h2>Select Category</h2>
+        <select id="catSelect"></select>
+        <label
+          >Questions:
+          <input id="numQ" type="number" min="1" max="30" value="10"
+        /></label>
+        <button id="startCat">Start Quiz</button>
+        <button id="backMenu">Back</button>
+      </section>
 
-    <section id="quiz" class="hidden">
-      <div id="progressBar"><div id="fill"></div></div>
-      <p id="qNum"></p>
-      <p id="question"></p>
-      <div id="options"></div>
-      <p id="feedback" class="hidden"></p>
-      <button id="nextBtn" class="hidden">Next →</button>
-    </section>
+      <section id="quiz" class="hidden">
+        <div id="progressBar"><div id="fill"></div></div>
+        <p id="qNum"></p>
+        <p id="question"></p>
+        <div id="options"></div>
+        <p id="feedback" class="hidden"></p>
+        <button id="nextBtn" class="hidden">Next →</button>
+      </section>
 
-    <section id="result" class="hidden">
-      <h2>Quiz Complete!</h2>
-      <p id="score"></p>
-      <button id="retry">Try Again</button>
-      <button id="menuBtn">Main Menu</button>
-    </section>
+      <section id="result" class="hidden">
+        <h2>Quiz Complete!</h2>
+        <p id="score"></p>
+        <button id="retry">Try Again</button>
+        <button id="menuBtn">Main Menu</button>
+      </section>
 
-    <section id="stats" class="hidden">
-      <h2>Your Lifetime Progress</h2>
-      <div id="statsList"></div>
-      <button id="clearStats">Clear All Stats</button>
-      <button id="menuBtn2">Back to Menu</button>
-    </section>
-  </div>
+      <section id="stats" class="hidden">
+        <h2>Your Lifetime Progress</h2>
+        <div id="statsList"></div>
+        <button id="clearStats">Clear All Stats</button>
+        <button id="menuBtn2">Back to Menu</button>
+      </section>
+    </div>
 
-  <script src="script.js"></script>
-</body>
+    <script src="Scripts.js"></script>
+  </body>
 </html>
